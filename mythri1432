@@ -1,0 +1,15 @@
+# i write a code to print a hello word using a function.
+def print():
+    print("Hello Word")
+print()
+#i write a code to print a percentage of a student.
+mythri = {
+    "phy":96,
+    "maths":99,
+    "chemi":98,
+    "phython":97
+}
+sum = 0
+for marks in mythri.values():
+    sum += marks
+print("the percentage of mythri is:",sum/4)
