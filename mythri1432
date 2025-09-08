@@ -13,3 +13,4 @@ sum = 0
 for marks in mythri.values():
     sum += marks
 print("the percentage of mythri is:",sum/4)
+print("hello mythri,how are you.")
